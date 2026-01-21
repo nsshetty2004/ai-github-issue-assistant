@@ -183,5 +183,6 @@ Final Notes
 
 This project is intentionally small but complete.
 It focuses on real-world AI system design, emphasizing reliability, clarity, and developer experience rather than raw model usage.
+This project emphasizes reliability, clarity, and production-ready AI design.
 
 Author: Shashank N
