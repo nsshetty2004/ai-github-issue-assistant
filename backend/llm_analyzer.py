@@ -12,6 +12,7 @@ def analyze_issue(issue_data: dict):
 
     title = issue_data.get("title", "").lower()
     body = issue_data.get("body", "").lower()
+# Heuristic-based detection of runtime errors and failures
 
     error_keywords = [
         "error", "exception", "cannot", "failed",
