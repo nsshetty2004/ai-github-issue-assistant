@@ -1,3 +1,4 @@
+# Deterministic fallback AI analyzer to guarantee schema-safe output
 from dotenv import load_dotenv
 from backend.models import IssueAnalysis
 
