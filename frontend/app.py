@@ -67,7 +67,7 @@ st.markdown(
 )
 
 st.write("")
-
+ # Developer-friendly UI with copyable JSON and readable summaries
 # -------------------------------------------------
 # Input Card
 # -------------------------------------------------
